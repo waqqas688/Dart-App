@@ -7,3 +7,6 @@ Refer to [Medium Blog](https://medium.com/@am15hg/text-classification-using-tens
 This basic Text Classification app demonstrates the usage of tflite_flutter_plugin.
 
 ![DEMO GIF](demo.gif)
+
+# Breif
+This is a Dart App for Attendance system with advanced face detection and AMS
